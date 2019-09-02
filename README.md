@@ -1,2 +1,2 @@
 # khaneme-kya-bnau
-Python API
+Python API project for choosing what to be made
